@@ -1,3 +1,4 @@
 # apnacollege-demo
 this is my first github
-i am anmol fatima
+<br>
+Author: Anmol fatima
