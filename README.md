@@ -1,4 +1,4 @@
 # apnacollege-demo
-this is my first github
+this is my first git repository
 <br>
-Author: Anmol fatima
+Author-Anmol fatima
